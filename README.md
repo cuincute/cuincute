@@ -16,7 +16,7 @@ const CONFIG = {
     btnReply: 'Gửi cho e  <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'okii lun',
+    messDesc: 'okii lun nè',
     btnAccept: ' tereruna yo <3',
     messLink: 'https://www.facebook.com/173201t',
 }
